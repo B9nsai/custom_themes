@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<colorTheme id="12345" name="Catppuccin" modified="2023-05-05 12:39:42" author="B9nsai">
+    <searchResultIndication color="#303446" />
+    <filteredSearchResultIndication color="#000000" />
+    <occurrenceIndication color="#424445" />
+    <writeOccurrenceIndication color="#424445" />
+    <findScope color="#424445" />
+    <deletionIndication color="#D25252" />
+    <sourceHoverBackground color="#424445" />
+    <singleLineComment color="#808080" italic="false" />
+    <multiLineComment color="#629755" italic="false" />
+    <commentTaskTag color="#CCDF32" italic="false" />
+    <javadoc color="#629755" italic="false" />
+    <javadocLink color="#84B977" italic="false" />
+    <javadocTag color="#84B977" bold="false" italic="false" underline="false" strikethrough="false" />
+    <javadocKeyword color="#84B977" bold="false" italic="false" underline="false" strikethrough="false" />
+    <class color="#ef9f76" bold="false" underline="false" strikethrough="false" />
+    <interface color="#ef9f76" />
+    <method color="#8caaee" />
+    <methodDeclaration color="#8caaee" />
+    <bracket color="#c6d0f5" />
+    <number color="#ef9f76" />
+    <string color="#a6d189" />
+    <operator color="#81c8be" />
+    <keyword color="#ca9ee6" bold="false" />
+    <annotation color="#e5c890" />
+    <staticMethod color="#8caaee" />
+    <localVariable color="#c6d0f5" />
+    <localVariableDeclaration color="#c6d0f5" />
+    <field color="#c6d0f5" />
+    <staticField color="#ef9f76" />
+    <staticFinalField color="#e5c890" />
+    <deprecatedMember color="#ea999c" underline="false" strikethrough="true" />
+    <enum color="#85c1dc" />
+    <inheritedMethod color="#8caaee" />
+    <abstractMethod color="#8caaee" />
+    <parameterVariable color="#e78284" />
+    <typeArgument color="#e5c890" />
+    <typeParameter color="#e5c890" />
+    <constant color="#ea999c" />
+    <background color="#303446" />
+    <currentLine color="#626880" />
+    <foreground color="#c6d0f5" />
+    <lineNumber color="#D0D0D0" />
+    <selectionBackground color="#303446" />
+    <selectionForeground color="#C6D0F5" />
+</colorTheme>
