@@ -21,7 +21,7 @@
     <bracket color="#c6d0f5" />
     <number color="#ef9f76" />
     <string color="#a6d189" />
-    <operator color="#81c8be" />
+    <operator color="#e5c890" />
     <keyword color="#ca9ee6" bold="false" />
     <annotation color="#e5c890" />
     <staticMethod color="#8caaee" />
